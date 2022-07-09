@@ -1,6 +1,7 @@
 # ignore data folder
 /data
 /.ipynb_checkpoints
+/NotForFinalCommit
 
 # MacOS stuff to ignore
 
