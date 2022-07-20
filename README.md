@@ -9,13 +9,13 @@ Contact: roderick.jaques@nhsbt.nhs.uk
 <a name="about"/>
 
 ## About this project
-This project was completed as part of the UK Civil Service Data Science Accelerator program. The aim of the project is to compare machine learning models ability to predict family consent for organ donation with logistic regression models from a previous analysis.
+This project was completed as part of the UK Civil Service Data Science Accelerator program. The aim of the project is to compare machine learning models' ability to predict family consent for organ donation with logistic regression models from a previous analysis.
 
-The previous analysis by [Curtis et al](https://doi.org/10.1111/anae.15485) used data on all family approaches (16,896) for donation in UK intensive care units or emergency departments between April 2014 and March 2019 extracted from the referral records and the national potential donor audit held by NHS Blood and Transplant to fit logistic regression models to analyse factors influencing fmaily consent for organ donation in the UK. Two models were fit, one for a cohort of donation after brain death (DBD) donors and one for a cohort of donation after circulatory death (DCD) donors.
+The previous analysis by [Curtis et al](https://doi.org/10.1111/anae.15485) used data on all family approaches (16,896) for donation in UK intensive care units or emergency departments between April 2014 and March 2019 extracted from the referral records and the national potential donor audit held by NHS Blood and Transplant to fit logistic regression models to analyse factors influencing family consent for organ donation in the UK. Two models were fit, one for a cohort of donation after brain death (DBD) donors and one for a cohort of donation after circulatory death (DCD) donors.
 
-In this project the same dataset was used recreate the logisitc regression models in Python and fit machine learning models to compare their ability to predict family consent for organ donation. Balanced accuracy was used as a metric to assess models due to an imbalance in the models ability to predict family consents and non-consents.
+In this project the same dataset was used to recreate the logistic regression models in Python and fit machine learning models to compare their ability to predict family consent for organ donation. Balanced accuracy was used as a metric to assess models due to an imbalance in the models ability to predict family consents and non-consents.
 
-The orginal logisitic regression model has a balanced accuracy of 67% for the DBD cohort, and 71% for the DCD cohort. 
+The original logistic regression model has a balanced accuracy of 67% for the DBD cohort, and 71% for the DCD cohort. 
 
 The most effective models, scored by their balanced accuracy, were found to be random forest models. For the DBD cohort the balanced accuracy of the random forest model is 75% and the balanced accuracy of the random forest model fit to the DCD cohort is 72%. 
 
