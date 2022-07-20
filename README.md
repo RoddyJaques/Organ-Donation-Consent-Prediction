@@ -1,7 +1,10 @@
 # Organ Donation Consent Prediction
+Author: *Roddy Jaques* <br/>
+Contact: roderick.jaques@nhsbt.nhs.uk
 ## Contents
 - [About this project](#about)
-- [Notebook guide](#bookdesc)
+- [Description of Notebooks](#bookdesc)
+- [Acknowledgements](#author)
 
 <a name="about"/>
 
@@ -18,7 +21,7 @@ The most effective models, scored by their balanced accuracy, were found to be r
 
 <a name="bookdesc"/>
 
-## Notebook guide
+## Description of Notebooks
 
 [1 Verifying Logistic Regression.ipynb](1%20Verifying%20Logistic%20Regression.ipynb)<br/>
 Logistic regression models are fit to replicate the models in the previous analysis. 
@@ -40,3 +43,12 @@ The wish variable is removed from the data and random forest models are fit to t
 
 [7 Boosted forest.ipynb](7%20Boosted%20forest.ipynb)<br/>
 Boosted forest models are fit and hyperparameters are tuned using a cross validated grid search. 
+
+<a name="author"/>
+
+## Acknowledgements
+For their contributions to this project, I would like to thank:
+- Maarten Van Schaik, my mentor through the DSA programme for sharing his knowledge of machine learning and statistics.
+- Becca Curtis, for collecting and sharing the dataset used in this project and sharing her experience and expertise. 
+
+
