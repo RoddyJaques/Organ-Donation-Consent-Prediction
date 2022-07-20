@@ -49,6 +49,6 @@ Boosted forest models are fit and hyperparameters are tuned using a cross valida
 ## Acknowledgements
 For their contributions to this project, I would like to thank:
 - Maarten Van Schaik, my mentor through the DSA programme for sharing his knowledge of machine learning and statistics.
-- Becca Curtis, for collecting and sharing the dataset used in this project and sharing her experience and expertise. 
+- Rebecca Curtis, for collecting and sharing the dataset used in this project and sharing her experience and expertise. 
 
 
