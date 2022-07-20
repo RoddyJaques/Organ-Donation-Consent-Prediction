@@ -2,7 +2,7 @@
 /data
 /.ipynb_checkpoints
 /NotForFinalCommit
-*.png
+/*.png
 
 # MacOS stuff to ignore
 
