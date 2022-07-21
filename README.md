@@ -24,7 +24,7 @@ The most effective models, scored by their balanced accuracy, were found to be r
 ## Description of Notebooks
 
 [1 Verifying Logistic Regression.ipynb](1%20Verifying%20Logistic%20Regression.ipynb)<br/>
-Logistic regression models are fit to replicate the models in the previous analysis. 
+An introduction to the project and logistic regression models are fit to replicate the models in the previous analysis. 
 
 [2 New logistic regression.ipynb](2%20New%20logistic%20regression.ipynb)<br/>
 Logistic regression models are fit using a train and test split, and the testing set used to calculate model metrics to benchmark other models against.
@@ -42,7 +42,7 @@ Random forest models are fit and hyperparameters are tuned using a cross validat
 The wish variable is removed from the data and random forest models are fit to the data without the wish variable. 
 
 [7 Boosted forest.ipynb](7%20Boosted%20forest.ipynb)<br/>
-Boosted forest models are fit and hyperparameters are tuned using a cross validated grid search. 
+Boosted forest models are fit and hyperparameters are tuned using a cross validated grid search. And conclusions of the project.
 
 <a name="author"/>
 
