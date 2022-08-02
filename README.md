@@ -1,6 +1,9 @@
 # Organ Donation Consent Prediction
 Author: *Roddy Jaques* <br/>
 Contact: roderick.jaques@nhsbt.nhs.uk
+
+DSAproject.yml contains the Python environment used in this project.
+
 ## Contents
 - [About this project](#about)
 - [Description of Notebooks](#bookdesc)
