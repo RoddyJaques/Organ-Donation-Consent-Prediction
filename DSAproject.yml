@@ -225,4 +225,3 @@ dependencies:
   - zstd=1.4.9=h322a384_0
   - pip:
     - kmodes==0.12.1
-prefix: /Users/roddy.jacques/opt/anaconda3/envs/DSAproject
