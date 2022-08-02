@@ -2,7 +2,7 @@
 Author: *Roddy Jaques* <br/>
 Contact: roderick.jaques@nhsbt.nhs.uk
 
-DSAproject.yml contains the Python environment used in this project.
+[DSAproject.yml](DSAproject.yml)<br/> contains the Python environment used in this project.
 
 ## Contents
 - [About this project](#about)
